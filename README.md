@@ -1,1 +1,1 @@
-**MiuiCamera for rubyx (Redmi Note 12 Pro/ Plus/ Discovery 5G)**
+**MiuiCamera for air (Redmi 13C 5G / POCO M6 5G)**

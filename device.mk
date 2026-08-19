@@ -5,7 +5,7 @@
 #
 
 # Inherit from the proprietary version
-$(call inherit-product, vendor/xiaomi/miuicamera-rubyx/miuicamera-rubyx-vendor.mk)
+$(call inherit-product, vendor/xiaomi/air-miuicamera/air-miuicamera-vendor.mk)
 
 # Overlays
 PRODUCT_PACKAGES += \

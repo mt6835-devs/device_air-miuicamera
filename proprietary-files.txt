@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from ruby V2.0.8.0.UMOCNXM
+# All unpinned blobs below are extracted from air OS2.0.206.0.VGQMIXM
 
 product/priv-app/MiuiCamera/MiuiCamera.apk:system_ext/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture
 
